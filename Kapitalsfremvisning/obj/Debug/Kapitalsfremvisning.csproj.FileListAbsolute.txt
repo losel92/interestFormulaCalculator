@@ -1,0 +1,10 @@
+C:\Users\losel\source\repos\Kapitalsfremvisning\Kapitalsfremvisning\obj\Debug\Kapitalsfremvisning.csprojAssemblyReference.cache
+C:\Users\losel\source\repos\Kapitalsfremvisning\Kapitalsfremvisning\obj\Debug\Kapitalsfremvisning.Form1.resources
+C:\Users\losel\source\repos\Kapitalsfremvisning\Kapitalsfremvisning\obj\Debug\Kapitalsfremvisning.Properties.Resources.resources
+C:\Users\losel\source\repos\Kapitalsfremvisning\Kapitalsfremvisning\obj\Debug\Kapitalsfremvisning.csproj.GenerateResource.cache
+C:\Users\losel\source\repos\Kapitalsfremvisning\Kapitalsfremvisning\obj\Debug\Kapitalsfremvisning.csproj.CoreCompileInputs.cache
+C:\Users\losel\source\repos\Kapitalsfremvisning\Kapitalsfremvisning\bin\Debug\Kapitalsfremvisning.exe.config
+C:\Users\losel\source\repos\Kapitalsfremvisning\Kapitalsfremvisning\bin\Debug\Kapitalsfremvisning.exe
+C:\Users\losel\source\repos\Kapitalsfremvisning\Kapitalsfremvisning\bin\Debug\Kapitalsfremvisning.pdb
+C:\Users\losel\source\repos\Kapitalsfremvisning\Kapitalsfremvisning\obj\Debug\Kapitalsfremvisning.exe
+C:\Users\losel\source\repos\Kapitalsfremvisning\Kapitalsfremvisning\obj\Debug\Kapitalsfremvisning.pdb
